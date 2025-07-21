@@ -2,6 +2,8 @@
 
 This repository contains the source code for the article **"Don't Reach for Redux Just Yet: Mastering State with React Context, useReducer, and TypeScript"** by Samuel Owolabi.
 
+📖 **[Read the full article on Medium](https://samowolabi.medium.com/dont-reach-for-redux-just-yet-mastering-state-with-react-context-usereducer-and-typescript-5fdceaaa8f4d)**
+
 It serves as a practical, real-world example of how to build a scalable and type-safe state management solution in a React (or Next.js) application without external libraries like Redux or Zustand.
 
 ## ✨ Features
